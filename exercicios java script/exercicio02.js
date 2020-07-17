@@ -6,9 +6,7 @@
  * Crie uma função que recebe os comprimentos dos três lados de um triângulo e retorne sua classificação quanto
  * ao tamanho de seus lados. (Neste exemplo deve-se abstrair as condições matemáticas de existência de um
  * triângulo).
- * @param {*} ladoA 
- * @param {*} ladoB 
- * @param {*} ladoC 
+ * @author JohnnyCarvalho
  */
 function ladosDoTriangulo(ladoA, ladoB, ladoC){
     if (ladoA === ladoB && ladoB === ladoC){
