@@ -17,7 +17,7 @@ function fatorial(valor) {
     } else {
 
       var acumula = 1;
-      for(x=valor;x>1;x--) {
+      for(x = valor; x > 1; x--) {
         acumula = acumula * x;
       }
       return acumula;
@@ -25,6 +25,12 @@ function fatorial(valor) {
 
 }
 
+console.log(fatorial(-1));
+console.log(fatorial(0));
+console.log(fatorial(1));
+console.log(fatorial(2));
+console.log(fatorial(3));
 console.log(fatorial(10));
+
 
  
