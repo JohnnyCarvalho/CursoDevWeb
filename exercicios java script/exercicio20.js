@@ -52,7 +52,7 @@ function sacarDinehiro (valorSaque) {
     let contador10 = 0;
     let contador5 = 0;
     let contador1 = 0;
-    let valorNota = cauculaValorNota(valorSaque)
+    let valorNota = cauculaValorNota(valorSaque) // AQUI ESTAVA O ERRO, FALTA DE ATENÇÃO !!!
     while (valorSaque >= valorNota) {
         switch (valorNota) {
             case 100:
