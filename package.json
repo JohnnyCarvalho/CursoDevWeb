@@ -1,0 +1,25 @@
+{
+  "name": "cursodevweb",
+  "version": "1.0.0",
+  "description": "Curso completo desenvolvimento Web com projetos, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL.\r Curso para fins acadêmicos.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.19",
+    "node-schedule": "1.3.0",
+    "nodemon": "^1.14.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyCarvalho/CursoDevWeb.git"
+  },
+  "author": "JohnnyCarvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnnyCarvalho/CursoDevWeb/issues"
+  },
+  "homepage": "https://github.com/JohnnyCarvalho/CursoDevWeb#readme"
+}
